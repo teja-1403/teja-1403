@@ -30,7 +30,7 @@
 👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning and much interested in Data science. 🤙
 
 🎈 My Hobbies :-
-              ◾ Interest in Sports (⚽🏀🏸🏓🏏🎾🎯🪁🎮♟) 
+              ◾ Interest in Sports 🏀🎮♟
               ◾ Fitness Enthusiast 💪🏻
               ◾ Nature Lover 🌴
               ◾ Reading books and journaling 📚😃
@@ -86,7 +86,7 @@
 
 
 
-### 📫 How to reach me :<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
+### 📫 How to reach me : <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
 
 <a href="https://www.linkedin.com/in/t-b-v-sai-teja/">
   <img align="left"  alt="Sai Teja | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
