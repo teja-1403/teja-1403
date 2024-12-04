@@ -13,7 +13,7 @@
 
 - I'm Sai Teja, currently pursuing Bachelors's in Computer Science & Engineering 🎓 at Vellore Institute of Technology, Amaravati. 🏛
 
-- I'm Passionate to learn new technology , concepts and implement new ideas!
+- I'm passionate to learn new technology, concepts and implement new ideas!
  Eager to learn!
  Creative and Problem Solving mindset!
 
@@ -24,18 +24,18 @@
 ---
 <img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
 
-### Some more Information about me :
+### Some more Information about me:
 🛠 I’m currently working with Python and Java 💻
 
 👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning and much interested in Data science. 🤙
 
-🎈 My Hobbies :-
+🎈 My Hobbies:
               ◾ Interest in Sports 🏀🎮♟
               ◾ Fitness Enthusiast 💪🏻
               ◾ Nature Lover 🌴
               ◾ Reading books and journaling 📚😃
 
-📫 Reach me at : tejathelegend@gmail.com  For any kind of assistance. I'm always ready to help ☺✌
+📫 Reach me at: tejathelegend@gmail.com  For any kind of assistance. I'm always ready to help ☺✌
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/teja-1403/teja-1403/issues)! 👈
 
@@ -43,7 +43,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="200" height="100"/>
 
-### Languages and Tools :
+### Languages and Tools:
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
 <code><img height="30" src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg"/></code>
@@ -56,7 +56,7 @@
 
 ---
 
-### Development Stats :
+### Development Stats:
 
 <details>	
   <summary><b>📊 Github Stats </b></summary><br/><br/>
