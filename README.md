@@ -35,7 +35,7 @@
               ◾ Nature Lover 🌴
               ◾ Reading books and journaling 📚😃
 
-📫 Reach me at: tejathelegend@gmail.com  For any kind of assistance. I'm always ready to help ☺✌
+📫 Reach me at: tejathelegend7@gmail.com  For any kind of assistance. I'm always ready to help ☺✌
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/teja-1403/teja-1403/issues)! 👈
 
