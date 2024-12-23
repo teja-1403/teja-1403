@@ -102,9 +102,6 @@
 	
 #### *Kindly show some support 😊 by giving ⭐ to my repositories!*
 
-## Snake
-
-![snake gif](https://github.com/teja-1403/teja-1403/blob/output/github-contribution-grid-snake.gif)
  
  
 
