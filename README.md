@@ -39,6 +39,12 @@
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/teja-1403/teja-1403/issues)! 👈
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Python-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/github/followers/teja-1403?label=Follow&style=plastic">
+<img src="https://img.shields.io/github/stars/teja-1403?label=Stars&style=plastic">
+
 ---
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="200" height="100"/>
@@ -109,5 +115,5 @@
 #### *Kindly show some support 😊 by giving ⭐ to my repositories!*
 
  
- 
+
 
