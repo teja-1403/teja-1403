@@ -68,6 +68,12 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=teja-1403&line_height=50&hide_border=true&theme=buefy">
 </details>
 
+<details>
+  <summary><b>👨🏻‍💻 Languages </b></summary>
+   <a href="https://github.com/teja-1403/github-readme-stats"><img alt="Sai Teja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-1403&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+  	
 <details>	
   <br/>
   <summary><b>💻 PC Specs and IDEs I use </b></summary>
