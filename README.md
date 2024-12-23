@@ -101,7 +101,10 @@
 #### *Really looking forward to connect with more and more people. Kindly connect with me on my social handles 😉. Would be more than happy to help!* 
 	
 #### *Kindly show some support 😊 by giving ⭐ to my repositories!*
-	
+
+## Snake
+
+![snake gif](https://github.com/teja-1403/teja-1403/blob/output/github-contribution-grid-snake.gif)
  
  
 
