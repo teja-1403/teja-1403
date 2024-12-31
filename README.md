@@ -27,10 +27,10 @@
 ### Some more Information about me:
 🛠 I’m currently working with Python and Java 💻
 
-👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning and much interested in Data science. 🤙
+👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning and much interested in Data Science. 🤙
 
 🎈 My Hobbies:
-              ◾ Interest in Sports 🏀🎮♟
+              ◾ Interested in Sports 🏀♟
               ◾ Fitness Enthusiast 💪🏻
               ◾ Nature Lover 🌴
               ◾ Reading books and journaling 📚😃
@@ -49,18 +49,24 @@
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="200" height="100"/>
 
-### Languages and Tools:
+### Languages and Tools I Use: 🚀
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <code><img height="30" src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/></code>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/microsoft-powerpoint-2019.png"/></code>
 
----
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teja-1403" alt="teja-1403" /></a></p>
 
 ### Development Stats:
 
@@ -95,8 +101,6 @@
 ---
 
 <img align="right" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
-
-
 
 ### 📫 How to reach me : <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
 
