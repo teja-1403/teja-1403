@@ -105,7 +105,7 @@
 ### 📫 How to reach me : <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
 
 <a href="https://www.linkedin.com/in/saiteja1403/">
-  <img align="left"  alt="Sai Teja | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"  alt="Sai Teja | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://github.com/teja-1403">
@@ -118,6 +118,10 @@
 	
 #### *Kindly show some support 😊 by giving ⭐ to my repositories!*
 
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/teja-1403/teja-1403/output/github-snake.svg" />
+</picture>
 
 
