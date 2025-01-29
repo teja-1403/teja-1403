@@ -9,23 +9,23 @@
 </p>
 
 ---
-### About Me :)
+### About me :)
 
-- I'm Sai Teja, currently pursuing Bachelors's in Computer Science & Engineering 🎓 at Vellore Institute of Technology, Amaravati. 🏛
+- I'm Sai Teja, currently pursuing B.Tech 4th year in Computer Science & Engineering 🎓 at VIT AP University. 🏛
 
 - I'm passionate to learn new technology, concepts and implement new ideas!
  Eager to learn!
  Creative and Problem Solving mindset!
 
- - I love to explore new technologies and use them to solve real-life problems 🤖. Currently strengthing my Data Structures and Algorithm skills 👨‍🔬 as well .
+- I love to explore new technologies and use them to solve real-life problems 🤖. Currently strengthing my Data Science and DSA skills as well. 👨‍🔬
 
--  I thoroughly enjoy tackling problems and coming up with novel ideas. Consider self confidence and dedication as my strengths.
+- I thoroughly enjoy tackling problems and coming up with novel ideas. Consider self confidence and dedication as my strengths.
 
 ---
 <img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
 
 ### Some more Information about me:
-🛠 I’m currently working with Python and Java 💻
+🛠 I’m currently working with Python and Java. 💻
 
 👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning and much interested in Data Science. 🤙
 
