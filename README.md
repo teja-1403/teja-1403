@@ -11,13 +11,13 @@
 ---
 ### About me :)
 
-- I'm Sai Teja, currently pursuing B.Tech 4th year in Computer Science & Engineering 🎓 at VIT AP University. 🏛
+- I'm Sai Teja, currently working as a **Software Developer at Standard Chartered GBS** 💻, with a strong interest in **Java full-stack**.
 
 - I'm passionate to learn new technology, concepts and implement new ideas!
  Eager to learn!
  Creative and Problem Solving mindset!
 
-- I love to explore new technologies and use them to solve real-life problems 🤖. Currently strengthing my Data Science and DSA skills as well. 👨‍🔬
+- I love to explore new technologies and use them to solve real-life problems 🤖. Currently strengthening my **DSA and Full-Stack Development skills**, while gaining hands-on experience with **Java, Spring Boot, and React**. 🚀
 
 - I thoroughly enjoy tackling problems and coming up with novel ideas. Consider self confidence and dedication as my strengths.
 
@@ -25,13 +25,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
 
 ### Some more Information about me:
-🛠 I’m currently working with Python and Java. 💻
+🛠 I’m currently working with **Java and React (TypeScript)**. 💻
 
-👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning and much interested in Data Science. 🤙
+👨🏻‍💻 I’ve completed several projects in **Machine Learning and Deep Learning** and remain highly interested in **Data Science**. 🤙
 
 🎈 My Hobbies:
-              ◾ Interested in Sports 🏀♟
-              ◾ Fitness Enthusiast 💪🏻
+              ◾ Interested in Sports 🏀
+			  ◾ Chess lover ♟
+              ◾ Fitness Enthusiast(Calisthenics) 💪🏻
               ◾ Nature Lover 🌴
               ◾ Reading books and journaling 📚😃
 
@@ -40,7 +41,7 @@
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/teja-1403/teja-1403/issues)! 👈
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CODE-Python-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Java-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <img src="https://img.shields.io/github/followers/teja-1403?label=Follow&style=plastic">
 <img src="https://img.shields.io/github/stars/teja-1403?label=Stars&style=plastic">
@@ -53,6 +54,7 @@
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+
 <code><img height="30" src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/></code>
@@ -65,9 +67,13 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></code>
+<a href="https://react.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/react" alt="React" width="42" height="42"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="42" height="42"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="42" height="42"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" width="42" height="42"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="42" height="42"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="42" height="42"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="42" height="42"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="42" height="42"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.simpleicons.org/git" alt="Git" width="42" height="42"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="42" height="42"/> </a> <a href="https://azure.microsoft.com/products/devops" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="42" height="42"/> </a> <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="42" height="42"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42"/> </a>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teja-1403" alt="teja-1403" /></a></p>
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=teja-1403&theme=onedark)](https://github.com/teja-1403/github-profile-trophy)-->
 
+<!--
 ### Development Stats:
 
 <details>	
@@ -85,7 +91,8 @@
    <a href="https://github.com/teja-1403/github-readme-stats"><img alt="Sai Teja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-1403&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-  	
+-->
+
 <details>	
   <br/>
   <summary><b>💻 PC Specs and IDEs I use </b></summary>
@@ -105,7 +112,7 @@
 ### 📫 How to reach me : <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
 
 <a href="https://www.linkedin.com/in/saiteja1403/">
-  <img align="left"  alt="Sai Teja | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sai Teja | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <a href="https://github.com/teja-1403">
